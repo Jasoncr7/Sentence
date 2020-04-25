@@ -23,6 +23,7 @@ input{
     margin-bottom: 2%;
     border-radius: 3px;
     border: none;
+    width: 50%;
 }
 button{
     width: 40%;
